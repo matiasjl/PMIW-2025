@@ -1,0 +1,11 @@
+Ana: Che, estoy armando un array de colores en p5.js, pero no me queda claro cómo recorrerlo.
+Luis: Fácil, usá un for y listo.
+Ana: Sí, pero mi array es tan grande que siento que nunca termina.
+Luis: Bueno… al menos no es como mi vida amorosa, ¡ese sí que es un array vacío!
+Ana: Jajaja, pará, que si lo inicializás mal capaz te tira undefined.
+Luis: Justo como mis citas: siempre undefined.
+Ana: Igual no te preocupes, podés hacer un push() y agregar algo.
+Luis: Ya lo intenté, pero parece que la función push() no está implementada en el mundo real.
+Ana: Entonces hacete un splice(), borrá lo malo y dale espacio a lo nuevo.
+Luis: Mmm… suena a terapia más que a código.
+Ana: Bueno, en p5.js todo es posible… ¡menos arreglar tu array sentimental!
